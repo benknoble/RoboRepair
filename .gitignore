@@ -1,0 +1,7 @@
+.collabignore
+Library/
+Logs/
+Temp/
+obj/
+
+!docs/Build/
