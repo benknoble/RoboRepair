@@ -557,6 +557,21 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
       value: Level 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6806374101796537049, guid: 02242ed51b4dc4f31b15dd33c4831cb9,
+        type: 3}
+      propertyPath: m_FontData.m_RichText
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6806374101796537049, guid: 02242ed51b4dc4f31b15dd33c4831cb9,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6806374101796537049, guid: 02242ed51b4dc4f31b15dd33c4831cb9,
+        type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 300
+      objectReference: {fileID: 0}
     - target: {fileID: 6806374102362943224, guid: 02242ed51b4dc4f31b15dd33c4831cb9,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -565,6 +580,11 @@ PrefabInstance:
     - target: {fileID: 6806374102362943226, guid: 02242ed51b4dc4f31b15dd33c4831cb9,
         type: 3}
       propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6806374102362943228, guid: 02242ed51b4dc4f31b15dd33c4831cb9,
+        type: 3}
+      propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7532968764930647772, guid: 02242ed51b4dc4f31b15dd33c4831cb9,

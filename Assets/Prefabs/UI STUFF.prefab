@@ -865,12 +865,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 52263058fea6e462fa6ae60003778354, type: 3}
---- !u!224 &7532968764930647772 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 9197691100638682576, guid: 52263058fea6e462fa6ae60003778354,
-    type: 3}
-  m_PrefabInstance: {fileID: 1670475359861799692}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1547876253217768089 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 168200254084364693, guid: 52263058fea6e462fa6ae60003778354,
@@ -883,6 +877,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6e3f667560d7846c69807beca0758cab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!224 &7532968764930647772 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 9197691100638682576, guid: 52263058fea6e462fa6ae60003778354,
+    type: 3}
+  m_PrefabInstance: {fileID: 1670475359861799692}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3286136448493375205
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1003,7 +1003,7 @@ PrefabInstance:
     - target: {fileID: 8354083435784506428, guid: 41c71b59bcc1c423d82220e4fef9d9b7,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 39
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 8354083435784506428, guid: 41c71b59bcc1c423d82220e4fef9d9b7,
         type: 3}
