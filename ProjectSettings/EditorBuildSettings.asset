@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Playground Simon.unity
-    guid: 2a513bfde8dd83c55bb4f691a48b5f25
-  - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: 62c9bb58c844da2a5856a23200973bfb
+  - enabled: 0
+    path: Assets/Scenes/Playground Simon.unity
+    guid: 2a513bfde8dd83c55bb4f691a48b5f25
   - enabled: 1
     path: Assets/Scenes/intro.unity
     guid: 8d954fb7476a347baa556a4769c48b01
